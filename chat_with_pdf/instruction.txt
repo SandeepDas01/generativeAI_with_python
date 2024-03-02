@@ -1,0 +1,7 @@
+Install library
+
+pip install pyPDF2
+pip install pipeline
+pip install transformers
+pip install tensorflow
+pip install torch torchvision
